@@ -15,7 +15,7 @@ If you are interested in joining the lab, get in touch with Dr. Bernot at james.
   * Your preparation for graduate school (e.g., undergraduate education, research experience, etc.)
   * Your research interests
   * Why you think the Bernot Lab would be a good place for your graduate research
-  * If known, some ideas for pootential research projects
+  * If known, some ideas for potential research projects
 * A copy of your CV
 
 You can find [step-by-step application guide](https://eeb.uconn.edu/eeb-graduate-program-step-by-step-application-procedure/)  for the [EEB graduate program](https://eeb.uconn.edu/grads/) and a related [FAQ](https://eeb.uconn.edu/graduate-applicant-frequently-asked-questions/).
