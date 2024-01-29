@@ -7,7 +7,7 @@ nav: true
 nav_order: 8
 ---
 
-<b>Diversity Statement:</b> The Bernot Lab wants everyone to feel welcome and excited about nature and science. We are committed to fostering diversity, equity, and inclusion at all levels. I expect all lab members to approach this commitment with continual attention, open-mindedness, humility, learning, and reflection. Our lab is a space where everyone can be safe, work comfortably, feel welcome, and be free to be their authentic self. As scientists, we pride ourselves in a devotion to life-long learning and all lab members should bring that same drive and love of learning to better understanding the diversity of the human experience and its broader sociocultural context.
+<b>Diversity Statement:</b> The Bernot Lab wants everyone to feel welcome and excited about nature and science. We are committed to fostering diversity, equity, and inclusion at all levels. Our lab is a space where everyone can be safe, work comfortably, feel welcome, and be free to be their authentic selves. I expect lab members to approach this commitment with attention, open-mindedness, humility, and reflection. As scientists, we pride ourselves in a devotion to life-long learning and all lab members should bring that same drive and love of learning to better understanding the diversity of the human experience and its broader sociocultural context.
 
 #### See some highlights of our science engagement work below:
 
