@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Below is the list of courses Dr. Bernot is teaching at UConn
 nav: true
-nav_order: 6
+nav_order: 10
 ---
+### Invertebrate Zoology (EEB 4275)
+This course provides an overview of the non-vertebrate animals. It emphasizes comparative study of form and function, and the complexity, diversity, and phylogenetic relationships of invertebrates.
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Introduction to Animal Parasitology (EEB 4274)
+This course surveys the diversity of protozoan and metazoan groups that parasitize animals. Some emphasis is placed on groups of particular medical, veterinary, and other economic importance. Lectures and labs emphasize knowledge of the biology and life cycles of individual parasites. Labs involve advanced microscopy training and elements of diagnostics. Basic “principles of parasitism”, parasite evolution, and ecology are introduced in the context of groups of parasites that exemplify these principles particularly well.
 
-Organize your courses by years, topics, or universities, however you like!
+### Systematic Biology
+This is a graduate-level course on systematics, the study of the diversification of living forms and the relationships among living things through time. It includes elements of taxonomy, species concepts, museum science, and an emphasis on phylogenetics.
+
+Additional EEB course offerings and information can be found [here](https://eeb.uconn.edu/course-descriptions/)
+[<img src="https://raw.githubusercontent.com/jbernot/jbernot.github.io/master/img/EEB_Banner.png" width="775"/>](https://eeb.uconn.edu/)
