@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Office: Gant W218</p>
-      <p>Lab: Gant W201</p>
+      <p>Lab:    Gant W201</p>
       <p>Storrs, CT 06269</p>
       
   - align: left
