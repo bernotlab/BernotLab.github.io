@@ -11,9 +11,9 @@ We study how evolution has produced the spectacular diversity of crustaceans. We
 
 #### 1) Copepod systematics and the evolution of parasitism
 <figure>
-<img src="https://dfzljdn9uc3pi.cloudfront.net/2021/12034/1/fig-1-2x.jpg"
+<img src="https://BernotLab.github.io/assets/img/Fig1_copepods.png"
 width="775"/>
-<figcaption> <b>Figure 1. A diversity of parasitic copepod body plans. </b> Image Credit: <a href="https://doi.org/10.7717/peerj.12034/fig-1"> Bernot et al. (2021) <i>PeerJ</i></a></figcaption>
+<figcaption> <b>A diversity of parasitic copepod body plans. </b> Image Credit: <a href="https://doi.org/10.7717/peerj.12034/fig-1"> Bernot et al. (2021) <i>PeerJ</i></a></figcaption>
 </figure>
 
 We use copepods as a model system to study the evolution of parasitism. Copepods are a diverse group of small aquatic crustaceans that are the most abundant animals in the ocean. Most copepods are about the size and shape of a sesame seed or grain of rice, but their small size belies their essential role in ecosystems. They dominate zooplankton communities and support the majority of the world’s fisheries. Nearly 6,000 copepod species are parasitic, including several economically important pathogens in aquaculture. We use genomes, transcriptomes, and a newly developed UCE probe set to ground our research questions in a robust phylogenetic context. We combine field expeditions, advanced imaging technologies, and genomic analyses to better understand copepod diversity. In our work, we frequently discover and describe new species. We also generate new user-friendly identification keys to lower barriers of entry into copepod taxonomy and systematics.

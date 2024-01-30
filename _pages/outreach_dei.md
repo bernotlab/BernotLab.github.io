@@ -101,13 +101,14 @@ Scientist representative for Congressional Science Night. Smithsonian National M
 
 #### Public Outreach at Smithsonian NMNH
 Crustacean scientist, Ocean Hall Department of Invertebrate Zoology public outreach. Crustacean specimen displays and Q&A. Smithsonian National Museum of Natural History.
-<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo4.jpg?raw=true">
+<img src="https://BernotLab.github.io/assets/img/SI_photo4.jpg" width="775"/>
 
 #### Meet-a-Scientist “Ocean Expert” at Smithsonian NMNH
 “Copepods: what reefs eat, and what is eating them.” Topic included: food webs, invertebrate diversity, specimen display, Q&A. World Ocean Day at Smithsonian National Museum of Natural History.
 
 #### Smithsonian “ScienceHow?” Webcast
 Live Q&A on parasites in <u>Smithsonian “ScienceHow?” Webcast</u>. Broadcast designed to meet middle school science curriculum. Online attendance > 2,000 students. Smithsonian National Museum of Natural History.
+<img src="https://BernotLab.github.io/assets/img/SI_photo5.jpg" width="775"/>
 
 #### BBC Documentary Interview
 Interviewed for BBC documentary on CRISPR-CAS9 and research 

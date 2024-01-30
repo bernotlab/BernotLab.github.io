@@ -27,7 +27,7 @@ Our research involves field work, taxonomy, museum collections, advanced imaging
 The Bernot Lab values diversity, equity, and inclusion at all levels. We are passionate about outreach and engagement, and we want everyone to feel welcome and excited about science and nature! More about this on the DEI & Outreach tab.
 
 <figure>
-<img src="http://BernotLab.github.io/assets/img/Fig1_copepods.png"
+<img src="https://BernotLab.github.io/assets/img/Fig1_copepods.png"
 width="775"/>
-<figcaption> <b>Figure 1. A diversity of parasitic copepods. </b> Image Credit: <a href="https://doi.org/10.7717/peerj.12034/fig-1">    Bernot et al. (2021) <i>PeerJ</i></a></figcaption>
+<figcaption> <b>A diversity of parasitic copepods. </b> Image Credit: <a href="https://doi.org/10.7717/peerj.12034/fig-1">    Bernot et al. (2021) <i>PeerJ</i></a></figcaption>
 </figure>
