@@ -21,4 +21,4 @@ If you are interested in joining the lab, get in touch with Dr. Bernot at james.
 You can find [step-by-step application guide](https://eeb.uconn.edu/eeb-graduate-program-step-by-step-application-procedure/)  for the [EEB graduate program](https://eeb.uconn.edu/grads/) and a related [FAQ](https://eeb.uconn.edu/graduate-applicant-frequently-asked-questions/).
 
 ### For undergrads:
-Undergraduates interested in research in the lab are highly encouraged to take one of Dr. Bernot's courses: Invertebrate Zoology (EEB 4275) and/or Introduction to Animal Parasitology (EEB 4274). It takes a while to learn techniques and complete a research project. To join the lab, undergraduates should expect to take at least 3 independent study credits for a minimum of 9 hours/week in the lab.
+Undergraduates interested in research in the lab are highly encouraged to take one of Dr. Bernot's courses: Invertebrate Zoology (EEB 4275) and/or Introduction to Animal Parasitology (EEB 4274). It takes a while to learn techniques and complete a research project. To join the lab, undergraduates should commit to at least 9 hours/week in the lab (3+ independent study credits).
