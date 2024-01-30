@@ -15,7 +15,7 @@ See the latest by following Jimmy on [Twitter](https://twitter.com/JimmyBernot) 
 <img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true" width="775">
 
 #### We love [Skype A Scientist](https://www.skypeascientist.com)!
-Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or libarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html)
+Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or librarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html)
 [<img src="https://www.glbrc.org/sites/default/files/img/Skype-A-Scientist_Myers_Header-Logo_web_GLBRC.jpg" width="775">](https://www.skypeascientist.com)
 
 #### Chaired World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2022”](https://lifewatch.be/en/worms-top10-2022)
@@ -75,7 +75,7 @@ The World of Queer Worms. Podcast panel discussion on hermaphroditic life on [Ex
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scientist Volunteers To Be Parasitized By 50 Hookworms For Vaccine Study<a href="https://t.co/ot3zCsDrmB">https://t.co/ot3zCsDrmB</a> <a href="https://t.co/Im8vwhkk2T">pic.twitter.com/Im8vwhkk2T</a></p>&mdash; IFLScience (@IFLScience) <a href="https://twitter.com/IFLScience/status/1356620030625144833?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Hookworm Vaccine & Challenge Trial Thread
-Twitter thread on my experience volunteering to participate in an exerpimental hookworm vaccine challenge trial. Jan. 27, 2021
+Twitter thread on my experience volunteering to participate in an experimental hookworm vaccine challenge trial. Jan. 27, 2021
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Heres the story of how I volunteered to be infected with 50 parasitic worms (hookworm) for a year as part of a research study. Check out this thread &amp; follow me for more <a href="https://twitter.com/hashtag/parasite?src=hash&amp;ref_src=twsrc%5Etfw">#parasite</a> &amp; marine biology content [t]<a href="https://twitter.com/hashtag/ScienceTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#ScienceTwitter</a> <br>imgs: <a href="https://t.co/hH5YsfS0ay">https://t.co/hH5YsfS0ay</a> <a href="https://t.co/kVurE6BbTS">https://t.co/kVurE6BbTS</a> <a href="https://t.co/l75h5XcNfl">pic.twitter.com/l75h5XcNfl</a></p>&mdash; Jimmy Bernot PhD 🦐🪱🏳️‍🌈 (@JimmyBernot) <a href="https://twitter.com/JimmyBernot/status/1354443833388503043?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### [LGBTQ+ STEMCast](ttps://anchor.fm/lgbtqstemcast) Podcast Feature
@@ -113,7 +113,7 @@ Live Q&A on parasites in <u>Smithsonian “ScienceHow?” Webcast</u>. Broadcast
 Interviewed for BBC documentary on CRISPR-CAS9 and research 
 ethics. George Washington University. Washington, DC.
 
-#### Exibit Design
+#### Exhibit Design
 Prepared specimens and worked with a photographer to design an exhibit on tapeworms in the Connecticut State Natural History Museum. [https://www.flickr.com/photos/107963674@N07/albums/72157662181220376](https://www.flickr.com/photos/107963674@N07/albums/72157662181220376)
 
 #### Parasite Curriculum K-5
