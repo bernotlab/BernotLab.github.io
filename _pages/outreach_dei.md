@@ -12,7 +12,7 @@ nav_order: 8
 #### See some highlights of our science engagement work below:
 
 See the latest by following Jimmy on [Twitter](https://twitter.com/JimmyBernot) and [Instagram](https://www.instagram.com/jimmybernot/) @JimmyBernot<br>
-<img src="https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true" width="775">
+<img src="https://BernotLab.github.io/assets/img/SI_photo2.jpg?raw=true" width="775">
 
 #### We love [Skype A Scientist](https://www.skypeascientist.com)!
 Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or librarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html)
@@ -34,7 +34,7 @@ Interviewed in NatGeo article on the importance of parasites.
 
 #### Interviewed in [The Atlantic](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
 Article on tongue-biter parasitic isopods.
-[<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg" width="775">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
+[<img src="https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg?raw=true" width="775">](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
 
 #### Twitter thread on how science illustrations are made
 Videos and photos demonstrating the science illustration process.
