@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-We study how evolution has produced the spectacular diversity of crustaceans. We are particulary interested in the evolution of parasitism, the evolution of host-associations, and morphological modifications associated with parasitic life styles. Most of our research involves three main systems:
+We study how evolution has produced the spectacular diversity of crustaceans. We are particularly interested in the evolution of parasitism, the evolution of host-associations, and morphological modifications associated with parasitic life styles. Most of our research involves three main systems:
 
 #### 1) Copepod systematics and the evolution of parasitism
 <figure>
