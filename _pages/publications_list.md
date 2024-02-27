@@ -13,9 +13,9 @@ You can also find a list of Bernot Lab publications on [Google Scholar](https://
 
 #### 2024
 
-Ismail N, Nishida Y, Ohtsuka S, Boxshall G, <b>Bernot JP</b>. (accepted). <u>First record of <i>Caligus dussumieri</i> Rangnekar, 1957 (Copepoda, Siphonostomatoida, Caligidae) from Malaysia, with notes on caligids found from Malaysia and on host-specificity of caligids on lutjanid fishes.</u> <i>Biodiversity Data Journal</i>.
+<b>Bernot JP</b>, Boxshall GA, Goetz FE, Phillips AJ. (in press). <u>Revisiting the unique morphology of Shiinoidae (Copepoda: Cyclopoida) with microCT</u>. <i>PeerJ</i>.
 
-<b>Bernot JP</b>, Boxshall GA, Goetz FE, Phillips AJ. (accepted). <u>Revisiting the unique morphology of Shiinoidae (Copepoda: Cyclopoida) with microCT</u>. <i>PeerJ</i>.
+Ismail N, Nishida Y, Ohtsuka S, Boxshall G, <b>Bernot JP</b>. (2024). <u>First record of <i>Caligus dussumieri</i> Rangnekar, 1957 (Copepoda, Siphonostomatoida, Caligidae) from Malaysia, with notes on caligids found from Malaysia and on host-specificity of caligids on lutjanid fishes.</u> <i>Biodiversity Data Journal</i>. [https://doi.org/10.3897/BDJ.12.e116598](https://doi.org/10.3897/BDJ.12.e116598)
 
 #### 2023
 
