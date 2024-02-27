@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-See the latest updates by following Jimmy on [Twitter](https://twitter.com/JimmyBernot) and [Instagram](https://www.instagram.com/jimmybernot/) @JimmyBernot
+You can follow the latest updates on [Twitter](https://twitter.com/JimmyBernot) and [Instagram](https://www.instagram.com/jimmybernot/) @JimmyBernot
 
 #### New publication:
 Ismail N, Nishida Y, Ohtsuka S, Boxshall G, Bernot JP. (2024). <u>First record of <i>Caligus dussumieri</i> Rangnekar, 1957 (Copepoda, Siphonostomatoida, Caligidae) from Malaysia, with notes on caligids found from Malaysia and on host-specificity of caligids on lutjanid fishes.</u> <i>Biodiversity Data Journal</i>. [https://doi.org/10.3897/BDJ.12.e116598](https://doi.org/10.3897/BDJ.12.e116598)
