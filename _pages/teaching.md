@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Classes
-description: Below is a list of courses Dr. Bernot teaches
+description: Below is a list of courses Dr. Bernot teaches.
 nav: true
 nav_order: 10
 ---
