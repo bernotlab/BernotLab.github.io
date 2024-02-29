@@ -2,7 +2,7 @@
 
 The Bernot Lab is based in the Department of Ecology & Evolutionary Biology (EEB) at UConn. Learn more about [UConn EEB](https://eeb.uconn.edu).
 
-#### For grad students:
+#### For graduate students:
 If you are interested in joining the lab, get in touch with Dr. Bernot at james.bernot@uconn.edu. In your email, it would be helpful to include: 
 * Background information on yourself:
   * Your preparation for graduate school (e.g., undergraduate education, research experience, etc.)
