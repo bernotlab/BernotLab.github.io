@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 The Bernot Lab studies systematics, morphological evolution, and genomics of crustaceans,
 with a particular focus on the evolution of parasitism in copepods. Copepods are small shrimp-like crustaceans that are the most abundant animals in the ocean. About one third of the 15,000 species of copepods are parasitic. They have evolved to be parasitic at least 14 times, parasitize more than 10 different animal phyla, and exhibit some of the most extreme morphological modifications of any group of animals&mdash;many are difficult to recognize even as arthropods.
 
-Research in the Bernot Lab spans several fields and often includes field work, taxonomy, museum collections, advanced imaging, molecular biology, phylogenetics, and genomics.
+Research in the Bernot Lab is multidisciplinary and includes field work and specimen collection, museum collections, taxonomy, advanced imaging, molecular biology, phylogenetics, and genomics.
 
 The Bernot Lab values diversity, equity, and inclusion at all levels. We are passionate about outreach and engagement, and we want everyone to feel welcome and excited about science and nature! More about this on the DEI & Outreach tab.
 

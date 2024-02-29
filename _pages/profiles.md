@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /profiles/
 title: People
-description: Members of the Bernot Lab. Scroll to the bottom for info on joining the team!
+description: Members of the Bernot Lab. Scroll to the bottom for info on joining the team.
 nav: true
 nav_order: 5
 
