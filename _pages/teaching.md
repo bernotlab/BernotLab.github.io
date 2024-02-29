@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Below is the list of courses Dr. Bernot teaches at UConn
+title: Classes
+description: Below is the list of courses Dr. Bernot teaches
 nav: true
 nav_order: 10
 ---
