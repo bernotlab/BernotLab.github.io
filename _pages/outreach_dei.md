@@ -15,8 +15,11 @@ See the latest by following Jimmy on [Twitter](https://twitter.com/JimmyBernot) 
 <img src="https://BernotLab.github.io/assets/img/SI_photo2.jpg?raw=true" width="775">
 
 #### We love [Skype A Scientist](https://www.skypeascientist.com)!
-Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or librarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html)
+Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or librarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html). Our lab has been participating regularly in Skype A Scientist since 2020.
 [<img src="https://www.glbrc.org/sites/default/files/img/Skype-A-Scientist_Myers_Header-Logo_web_GLBRC.jpg" width="775">](https://www.skypeascientist.com)
+
+#### Interviewed in [LiveScience article]((https://www.livescience.com/animals/watch-bright-red-blood-sucking-parasite-feast-on-gulper-eel-in-rare-deep-sea-footage)) on Gulper Eel parasite filmed by ROV
+[<img src="https://cdn.mos.cms.futurecdn.net/PxxWSLaZFcaQAn4ASx7Fmd-970-80.jpg.webp" width="775">](https://www.livescience.com/animals/watch-bright-red-blood-sucking-parasite-feast-on-gulper-eel-in-rare-deep-sea-footage)
 
 #### Chaired World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2022”](https://lifewatch.be/en/worms-top10-2022)
 Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2022) for Taxonomists Appreciation Day to draw attention to 
@@ -24,12 +27,12 @@ taxonomic research. March 2023.
 
 #### Cowrote WoRMS [“Top 10 new marine species of 2021”](https://lifewatch.be/en/worms-top10-2021)
 Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2021) for Taxonomists Appreciation Day. March 2022.
-[<img src="https://images.marinespecies.org/thumbs/150643_periclimenaeus-karantina-jh-park-en-de-grave-2021.jpg?w=700">](https://lifewatch.be/en/worms-top10-2021)
+[<img src="https://images.marinespecies.org/thumbs/150643_periclimenaeus-karantina-jh-park-en-de-grave-2021.jpg?w=775">](https://lifewatch.be/en/worms-top10-2021)
 
 #### Smithsonian NMNH White House Office of Science and Technology Policy Staff & Family Night
 Dr. Bernot served as an Ocean Hall Expert to talk with OSTP staff about NMNH research. Feb. 28, 2022.
 
-#### [National Geographic Interview](https://www.nationalgeographic.com/animals/article/parasites-are-diverse-heres-why-they-matter) on Parasites
+#### [National Geographic Interview](https://www.nationalgeographic.com/animals/article/parasites-are-diverse-heres-why-they-matter) on parasites
 Interviewed in NatGeo article on the importance of parasites.
 
 #### Interviewed in [The Atlantic](https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/)
