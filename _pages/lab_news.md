@@ -7,6 +7,13 @@ nav: true
 nav_order: 1
 ---
 
+* Chaired World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023)
+
+<sup>
+Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2022) for Taxonomists Appreciation Day to draw attention to 
+taxonomic research. March 2024.
+</sup>
+
 * New publication using microCT to characterize copepod morphology and attachment mechanisms:
 
 <sup>

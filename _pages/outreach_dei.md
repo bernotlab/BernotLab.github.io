@@ -18,12 +18,14 @@ See the latest by following Jimmy on [Twitter](https://twitter.com/JimmyBernot) 
 Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or librarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html). Our lab has been participating regularly in Skype A Scientist since 2020.
 [<img src="https://www.glbrc.org/sites/default/files/img/Skype-A-Scientist_Myers_Header-Logo_web_GLBRC.jpg" width="775">](https://www.skypeascientist.com)
 
+#### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023). March 2024.
+[<img src="https://images.marinespecies.org/thumbs/168473_halgerda-scripta-donohoo-en-gosliner-2023.jpg?w=775">](https://lifewatch.be/en/worms-top10-2023)
+
 #### Interviewed in [LiveScience article]((https://www.livescience.com/animals/watch-bright-red-blood-sucking-parasite-feast-on-gulper-eel-in-rare-deep-sea-footage)) on Gulper Eel parasite filmed by ROV
 [<img src="https://cdn.mos.cms.futurecdn.net/PxxWSLaZFcaQAn4ASx7Fmd-970-80.jpg.webp" width="775">](https://www.livescience.com/animals/watch-bright-red-blood-sucking-parasite-feast-on-gulper-eel-in-rare-deep-sea-footage)
 
-#### Chaired World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2022”](https://lifewatch.be/en/worms-top10-2022)
-Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2022) for Taxonomists Appreciation Day to draw attention to 
-taxonomic research. March 2023.
+#### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2022”](https://lifewatch.be/en/worms-top10-2022). March 2023.
+[<img src="https://images.marinespecies.org/thumbs/160394_atolla-reynoldsi-matsumoto-christianson-robison-haddock-en-johnson-2022.jpg?w=775">](https://lifewatch.be/en/worms-top10-2022)
 
 #### Cowrote WoRMS [“Top 10 new marine species of 2021”](https://lifewatch.be/en/worms-top10-2021)
 Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2021) for Taxonomists Appreciation Day. March 2022.
