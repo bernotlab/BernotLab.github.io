@@ -19,7 +19,7 @@ profiles:
       <p>Storrs, CT 06269</p>
       
   - align: left
-#    image: prof_pic.jpg
+    image: javi_prof_pic.jpg
     content: about_javi.md
     image_circular: false # crops the image to make it circular
 #    more_info: >
@@ -28,7 +28,7 @@ profiles:
 #      <p>Your City, State 12345</p>
 
   - align: right
-#    image: prof_pic.jpg
+    image: netanya_prof_pic.jpg
     content: about_netanya.md
     image_circular: false # crops the image to make it circular
 #    more_info: >

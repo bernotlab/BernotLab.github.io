@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+* The World Association of Copepodologists (WAC) Student Grant Program is open for 2024! See details on the [WAC website](https://www.monoculus.org/student-grants/)
+
 * Chaired World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023)
 
 <sup>
