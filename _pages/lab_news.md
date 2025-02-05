@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 * The Bernot Lab is attending [NEAP May 3rd (The New England Association of Parasitologists Conference)](https://aspmeetings.wixsite.com/neap)
-* 
+
 * World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”] Forthcoming. Submission information available [here](https://www.marinespecies.org/news.php?p=show&id=9363)
 
 * New publication using confocal laser scanning microscopy for an open access key to the genera of Caligidae.
@@ -18,6 +18,7 @@ nav_order: 1
 </sup>
 
 * 35th Annual EEB Graduate Student Research Symposium March 1st BPB130:
+* 
 <sup>
 This event is free and open to the public. Invite your family, friends, and colleagues. Prospective students are especially encouraged to attend.
 </sup>
