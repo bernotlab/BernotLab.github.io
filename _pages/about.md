@@ -6,7 +6,7 @@ subtitle: Jimmy Bernot, Department of Ecology & Evolutionary Biology, University
 
 profile:
   align: right
-  image: lab_pic.jpg
+  image: lablogo_bernot2_edits_lowres.jpg
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>Gant W201</p>

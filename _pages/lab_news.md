@@ -7,7 +7,22 @@ nav: true
 nav_order: 1
 ---
 
-* The World Association of Copepodologists (WAC) Student Grant Program is open for 2024! See details on the [WAC website](https://www.monoculus.org/student-grants/)
+* The Bernot Lab is attending [NEAP May 3rd (The New England Association of Parasitologists Conference)](https://aspmeetings.wixsite.com/neap)
+* 
+* World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”] Forthcoming. Submission information available [here](https://www.marinespecies.org/news.php?p=show&id=9363)
+
+* New publication using confocal laser scanning microscopy for an open access key to the genera of Caligidae.
+
+<sup>
+<b>Bernot JP</b>, Boxshall GA, Cristina Kahara T, Martínez Arbizu P. (2025). An updated key to the genera of Caligidae (Copepoda: Siphonostomatoida). <i>Journal of Parasitology</i>. [https://doi.org/10.1645/24-97](https://doi.org/10.1645/24-97)
+</sup>
+
+* 35th Annual EEB Graduate Student Research Symposium March 1st BPB130:
+<sup>
+This event is free and open to the public. Invite your family, friends, and colleagues. Prospective students are especially encouraged to attend.
+</sup>
+
+* The World Association of Copepodologists (WAC) Student Grant Program has made 3 awards. Award announcement and project blurbs forthcoming on the [WAC website](https://www.monoculus.org/student-grants/)
 
 * Chaired World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023)
 

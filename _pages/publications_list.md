@@ -10,6 +10,8 @@ nav_order: 3
 You can also find a list of Bernot Lab publications on [Google Scholar](https://scholar.google.com/citations?user=9sa6KNwAAAAJ&hl=en&oi=ao)<br>
 <sup>Email james.bernot@uconn.edu if interested in reprints not available at the DOIs.</sup>
 
+#### 2025
+<b>Bernot JP</b>, Boxshall GA, Cristina Kahara T, Martínez Arbizu P. (2025). An updated key to the genera of Caligidae (Copepoda: Siphonostomatoida). <i>Journal of Parasitology</i>. [https://doi.org/10.1645/24-97](https://doi.org/10.1645/24-97)
 
 #### 2024
 
