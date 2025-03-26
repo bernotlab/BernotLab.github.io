@@ -7,9 +7,15 @@ nav: true
 nav_order: 1
 ---
 
-* The Bernot Lab is attending [NEAP May 3rd (The New England Association of Parasitologists Conference)](https://aspmeetings.wixsite.com/neap)
+* New publication using microCT to characterize copepod morphology and attachment mechanisms:
 
-* World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”] Forthcoming. Submission information available [here](https://www.marinespecies.org/news.php?p=show&id=9363)
+<sup>
+<b>Bernot JP</b>, Khodami S, Boyen J, De Troch M, Boxshall GA, Martínez Arbizu P. (2025). Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida. Molecular Phylogenetics and Evolution. [https://doi.org/10.1016/j.ympev.2025.108311](https://doi.org/10.1016/j.ympev.2025.108311)
+</sup>
+
+* Cochaired and cowrote World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”](https://marinespecies.org/worms-top-ten/2024/press-release).
+
+* The Bernot Lab is attending [NEAP May 3rd (The New England Association of Parasitologists Conference)](https://aspmeetings.wixsite.com/neap)
 
 * New publication using confocal laser scanning microscopy for an open access key to the genera of Caligidae.
 
