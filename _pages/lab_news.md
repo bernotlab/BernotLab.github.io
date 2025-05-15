@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-* The Bernot Lab is attending [ASP July 6-10 (The New England Association of Parasitologists Conference)](https://www.amsocparasit.org)
+* The Bernot Lab is attending [ASP July 6-10 (The American Society of Parasitologists Conference)](https://www.amsocparasit.org)
 
 * New publication on phylotranscriptomics of the major copepod orders:
 
