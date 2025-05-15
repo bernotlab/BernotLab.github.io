@@ -19,7 +19,7 @@ nav_order: 1
 
 * Jimmy was interviewed in a [LiveScience article](https://www.livescience.com/animals/fish/scientists-capture-footage-of-bizarre-deep-sea-creature-with-parasite-pig-tails) on a ratfish parasites in ROV footage
 
-* Cochaired and cowrote World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”](https://marinespecies.org/worms-top-ten/2024/press-release).
+* Cochaired and cowrote World Register of Marine Species (WoRMS) Article [“Top 10 new marine species of 2024”](https://marinespecies.org/worms-top-ten/2024/press-release).
 
 * New publication using confocal laser scanning microscopy for an open access key to the genera of Caligidae.
 
@@ -36,9 +36,7 @@ This event is free and open to the public. Invite your family, friends, and coll
 
 ### 2024
 
-* Chaired World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023)
-
-* Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2022) for Taxonomists Appreciation Day to draw attention to taxonomic research. March 2024.
+* Cochaired and cowrote World Register of Marine Species (WoRMS) Article [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023)
 
 * New publication using microCT to characterize copepod morphology and attachment mechanisms:
 
