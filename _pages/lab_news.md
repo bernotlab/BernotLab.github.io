@@ -7,15 +7,19 @@ nav: true
 nav_order: 1
 ---
 
-* New publication using microCT to characterize copepod morphology and attachment mechanisms:
+* The Bernot Lab is attending [ASP July 6-10 (The New England Association of Parasitologists Conference)](https://www.amsocparasit.org)
+
+* New publication on phylotranscriptomics of the major copepod orders:
 
 <sup>
 <b>Bernot JP</b>, Khodami S, Boyen J, De Troch M, Boxshall GA, Martínez Arbizu P. (2025). Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida. Molecular Phylogenetics and Evolution. [https://doi.org/10.1016/j.ympev.2025.108311](https://doi.org/10.1016/j.ympev.2025.108311)
 </sup>
 
-* Cochaired and cowrote World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”](https://marinespecies.org/worms-top-ten/2024/press-release).
+* [Bernot et al. (2023)](https://doi.org/10.1093/molbev/msad175) was featured in [Smithsonian Magazine Article](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
 
-* The Bernot Lab is attending [NEAP May 3rd (The New England Association of Parasitologists Conference)](https://aspmeetings.wixsite.com/neap)
+* Jimmy was interviewed in a [LiveScience article](https://www.livescience.com/animals/fish/scientists-capture-footage-of-bizarre-deep-sea-creature-with-parasite-pig-tails) on a ratfish parasites in ROV footage
+
+* Cochaired and cowrote World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”](https://marinespecies.org/worms-top-ten/2024/press-release).
 
 * New publication using confocal laser scanning microscopy for an open access key to the genera of Caligidae.
 
@@ -23,20 +27,18 @@ nav_order: 1
 <b>Bernot JP</b>, Boxshall GA, Cristina Kahara T, Martínez Arbizu P. (2025). An updated key to the genera of Caligidae (Copepoda: Siphonostomatoida). <i>Journal of Parasitology</i>. [https://doi.org/10.1645/24-97](https://doi.org/10.1645/24-97)
 </sup>
 
-* 35th Annual EEB Graduate Student Research Symposium March 1st BPB130:
-* 
+* 35th Annual EEB Graduate Student Research Symposium is March 1st in BPB130:
 <sup>
 This event is free and open to the public. Invite your family, friends, and colleagues. Prospective students are especially encouraged to attend.
 </sup>
 
-* The World Association of Copepodologists (WAC) Student Grant Program has made 3 awards. Award announcement and project blurbs forthcoming on the [WAC website](https://www.monoculus.org/student-grants/)
+* The World Association of Copepodologists (WAC) Student Grant Program has made 3 awards. See the award announcement and project blurbs on the [WAC website](https://www.monoculus.org/student-grants/)
+
+### 2024
 
 * Chaired World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023)
 
-<sup>
-Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2022) for Taxonomists Appreciation Day to draw attention to 
-taxonomic research. March 2024.
-</sup>
+* Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2022) for Taxonomists Appreciation Day to draw attention to taxonomic research. March 2024.
 
 * New publication using microCT to characterize copepod morphology and attachment mechanisms:
 
