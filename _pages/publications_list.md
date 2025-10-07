@@ -12,6 +12,10 @@ You can also find a list of Bernot Lab publications on [Google Scholar](https://
 
 #### 2025
 
+Dreyer D, <b>Bernot JP</b>, Olesen J, Kolbasov G, Høeg J, Machida R, Chan BKK. (2025). Phylogenomics of enigmatic crustacean y-larvae reveals multiple origins of parasitism in barnacles. Current Biology, 3356–3367.e4. [https://doi.org/10.1016/j.cub.2025.06.007](https://doi.org/10.1016/j.cub.2025.06.007)
+
+Boxshall GA, Nagasawa K, <b>Bernot JP</b>. (2025). The male of <i>Dinemoleus indeprensus</i> Cressey & Boyle, 1978 with a brief overview of sexual dimorphism in the family Pandaridae (Copepoda: Siphonostomatoida). Plankton & Benthos Research, 20165–174. [https://doi.org/10.3800/pbr.20.s165](https://doi.org/10.3800/pbr.20.s165)
+
 <b>Bernot JP</b>, Khodami S, Boyen J, De Troch M, Boxshall GA, Martínez Arbizu P. (2025). Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida. Molecular Phylogenetics and Evolution. [https://doi.org/10.1016/j.ympev.2025.108311](https://doi.org/10.1016/j.ympev.2025.108311)
 
 

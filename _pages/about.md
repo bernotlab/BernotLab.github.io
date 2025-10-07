@@ -24,7 +24,7 @@ with a particular focus on the evolution of parasitism in copepods. Copepods are
 
 Research in the Bernot Lab is multidisciplinary and includes field work and specimen collection, museum collections, taxonomy, advanced imaging, molecular biology, phylogenetics, and genomics.
 
-The Bernot Lab values diversity, equity, and inclusion at all levels. We are passionate about outreach and engagement, and we want everyone to feel welcome and excited about science and nature! More about this on the DEI & Outreach tab.
+The Bernot Lab values diversity, equity, and inclusion at all levels. We are passionate about outreach and engagement, and we want everyone to feel welcome and excited about science and nature! More about this on the Outreach tab.
 
 <figure>
 <img src="https://BernotLab.github.io/assets/img/Fig1_copepods.png"

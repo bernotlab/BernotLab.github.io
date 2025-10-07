@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /outreach_dei/
-title: Outreach & DEI
+title: Outreach
 description:
 nav: true
 nav_order: 8

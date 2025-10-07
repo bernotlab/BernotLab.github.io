@@ -7,12 +7,27 @@ nav: true
 nav_order: 1
 ---
 
+* New publication on parasitic barnacle evolution
+
+<sup>
+<b>Dreyer D, <b>Bernot JP</b>, Olesen J, Kolbasov G, Høeg J, Machida R, Chan BKK. (2025). Phylogenomics of enigmatic crustacean y-larvae reveals multiple origins of parasitism in barnacles. Current Biology, 3356–3367.e4. [https://doi.org/10.1016/j.cub.2025.06.007](https://doi.org/10.1016/j.cub.2025.06.007)
+</sup>
+
+Press coverage on the above publication:
+[https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/](https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/)
+[https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-80863](https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-808)
+[https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite](https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite)
+[https://www.sciencedaily.com/releases/2025/09/250913112506.htm](https://www.sciencedaily.com/releases/2025/09/250913112506.htm)
+[https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/](https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/)
+[https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/](https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/)
+[https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/](https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/)
+ 
 * The Bernot Lab is attending [ASP July 6-10 (The American Society of Parasitologists Conference)](https://www.amsocparasit.org)
 
 * New publication on phylotranscriptomics of the major copepod orders:
 
 <sup>
-<b>Bernot JP</b>, Khodami S, Boyen J, De Troch M, Boxshall GA, Martínez Arbizu P. (2025). Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida. <i>Molecular Phylogenetics and Evolution</i>. [https://doi.org/10.1016/j.ympev.2025.108311](https://doi.org/10.1016/j.ympev.2025.108311)
+<b>Bernot JP</b>, Khodami S, Boyen J, De Troch M, Boxshall GA, Martínez Arbizu P. (2025). Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida. Molecular Phylogenetics and Evolution. [https://doi.org/10.1016/j.ympev.2025.108311](https://doi.org/10.1016/j.ympev.2025.108311)
 </sup>
 
 * [Bernot et al. (2023)](https://doi.org/10.1093/molbev/msad175) was featured in [Smithsonian Magazine Article](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
