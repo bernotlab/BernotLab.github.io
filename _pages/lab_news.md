@@ -18,13 +18,13 @@ Press coverage on the above publication:
 </sup>
 
 <sup>
-[https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/](https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/)
-[https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-80863](https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-808)
-[https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite](https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite)
-[https://www.sciencedaily.com/releases/2025/09/250913112506.htm](https://www.sciencedaily.com/releases/2025/09/250913112506.htm)
-[https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/](https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/)
-[https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/](https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/)
-[https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/](https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/)
+* [https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/](https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/)
+* [https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-808](https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-808)
+* [https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite](https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite)
+* [https://www.sciencedaily.com/releases/2025/09/250913112506.htm](https://www.sciencedaily.com/releases/2025/09/250913112506.htm)
+* [https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/](https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/)
+* [https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/](https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/)
+* [https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/](https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/)
 </sup>
  
 * The Bernot Lab is attending [ASP July 6-10 (The American Society of Parasitologists Conference)](https://www.amsocparasit.org)
