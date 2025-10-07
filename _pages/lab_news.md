@@ -15,7 +15,9 @@ nav_order: 1
 
 <sup>
 Press coverage on the above publication:
+</sup>
 
+<sup>
 [https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/](https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/)
 [https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-80863](https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-808)
 [https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite](https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite)
