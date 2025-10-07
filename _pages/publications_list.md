@@ -16,8 +16,9 @@ Dreyer D, <b>Bernot JP</b>, Olesen J, Kolbasov G, Høeg J, Machida R, Chan BKK. 
 
 Boxshall GA, Nagasawa K, <b>Bernot JP</b>. (2025). The male of <i>Dinemoleus indeprensus</i> Cressey & Boyle, 1978 with a brief overview of sexual dimorphism in the family Pandaridae (Copepoda: Siphonostomatoida). Plankton & Benthos Research, 20165–174. [https://doi.org/10.3800/pbr.20.s165](https://doi.org/10.3800/pbr.20.s165)
 
-<b>Bernot JP</b>, Khodami S, Boyen J, De Troch M, Boxshall GA, Martínez Arbizu P. (2025). Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida. Molecular Phylogenetics and Evolution. [https://doi.org/10.1016/j.ympev.2025.108311](https://doi.org/10.1016/j.ympev.2025.108311)
+Deets GB, Boxshall GA, <b>Bernot JP</b>. (2025). A systematic revision of <i>Kroyeria</i> (Copepoda: Siphonostomatoida): five new species, eleven redescriptions, and a morphological phylogenetic analysis of the genus. Journal of Parasitology, 111: 315–373. [https://doi.org/10.1645/24-115](https://doi.org/10.1645/24-115)
 
+<b>Bernot JP</b>, Khodami S, Boyen J, De Troch M, Boxshall GA, Martínez Arbizu P. (2025). Copepod phylogenomics supports Canuelloida as a valid order separate from Harpacticoida. Molecular Phylogenetics and Evolution. [https://doi.org/10.1016/j.ympev.2025.108311](https://doi.org/10.1016/j.ympev.2025.108311)
 
 <b>Bernot JP</b>, Boxshall GA, Cristina Kahara T, Martínez Arbizu P. (2025). An updated key to the genera of Caligidae (Copepoda: Siphonostomatoida). Journal of Parasitology. [https://doi.org/10.1645/24-97](https://doi.org/10.1645/24-97)
 

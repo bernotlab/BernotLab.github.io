@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-* New publication on parasitic barnacle evolution
+* New publication on parasitic barnacle evolution:
 
 <sup>
 <b>Dreyer D, <b>Bernot JP</b>, Olesen J, Kolbasov G, Høeg J, Machida R, Chan BKK. (2025). Phylogenomics of enigmatic crustacean y-larvae reveals multiple origins of parasitism in barnacles. Current Biology, 3356–3367.e4. [https://doi.org/10.1016/j.cub.2025.06.007](https://doi.org/10.1016/j.cub.2025.06.007)
