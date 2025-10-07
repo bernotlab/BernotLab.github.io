@@ -13,11 +13,9 @@ nav_order: 1
 <b>Dreyer D, <b>Bernot JP</b>, Olesen J, Kolbasov G, Høeg J, Machida R, Chan BKK. (2025). Phylogenomics of enigmatic crustacean y-larvae reveals multiple origins of parasitism in barnacles. Current Biology, 3356–3367.e4. [https://doi.org/10.1016/j.cub.2025.06.007](https://doi.org/10.1016/j.cub.2025.06.007)
 </sup>
 
-<sup>
-Press coverage on the above publication:
-</sup>
 
-<sup>
+Press coverage on the above publication:
+
 * [https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/](https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/)
 * [https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-808](https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-808)
 * [https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite](https://www.sciencealert.com/mysterious-alien-looking-larva-identified-as-a-probable-parasite)
@@ -25,7 +23,7 @@ Press coverage on the above publication:
 * [https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/](https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/)
 * [https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/](https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/)
 * [https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/](https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/)
-</sup>
+
  
 * The Bernot Lab is attending [ASP July 6-10 (The American Society of Parasitologists Conference)](https://www.amsocparasit.org)
 
