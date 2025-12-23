@@ -14,8 +14,6 @@ You can also find a list of Bernot Lab publications on [Google Scholar](https://
 
 Dreyer D, <b>Bernot JP</b>, Olesen J, Kolbasov G, Høeg J, Machida R, Chan BKK. (2025). Phylogenomics of enigmatic crustacean y-larvae reveals multiple origins of parasitism in barnacles. Current Biology, 3356–3367.e4. [https://doi.org/10.1016/j.cub.2025.06.007](https://doi.org/10.1016/j.cub.2025.06.007)
 
-<sup>
-
 Media coverage:
 * [https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/](https://today.uconn.edu/2025/07/one-step-closer-to-solving-a-century-old-crustacean-mystery/)
 * [https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-80863](https://www.iflscience.com/anyone-know-what-these-marine-y-larvae-grow-into-because-scientists-have-no-clue-80863)
@@ -24,8 +22,6 @@ Media coverage:
 * [https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/](https://scitechdaily.com/what-are-these-creepy-creatures-scientists-close-in-on-century-old-crustacean-mystery/)
 * [https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/](https://dailygalaxy.com/2025/09/strange-creature-mystery-being-uncovered/)
 * [https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/](https://news.ssbcrack.com/mysterious-y-larvae-finally-identified-as-parasites-hidden-in-other-marine-animals/)
-
-</sup>
 
 Boxshall GA, <b>Bernot JP</b>. (2025). The Hatschekiidae (Copepoda: Siphonostomatoida) of Moreton Bay, Queensland, Australia, with a key to species reported from Australian waters. Zootaxa, 5716 (1): 11–65 [https://doi.org/10.11646/zootaxa.5716.1.2](https://doi.org/10.11646/zootaxa.5716.1.2)
 
@@ -52,13 +48,8 @@ Boxshall GA, <b>Bernot JP</b>. (2023). Resolving taxonomic and nomenclatural pro
 
 <b>Bernot JP</b>, Owen CL, Wolfe JM, Meland K, Olesen J, Crandall KA. (2023) Major Revisions in Pancrustacean Phylogeny and Evidence of Sensitivity to Taxon Sampling. Molecular Biology and Evolution. [https://doi.org/10.1093/molbev/msad175](https://doi.org/10.1093/molbev/msad175)
 
-<sup>
-
 Media coverage:
 * [https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/](https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/)
-
-</sup>
-
 
 #### 2022
 Hawdon JM, <b>Bernot JP.</b> (2022). Teaching Parasitology Lab Remotely Using Livestreaming. The American Biology Teacher. [https://doi.org/10.1525/abt.2022.84.5.312](https://doi.org/10.1525/abt.2022.84.5.312)

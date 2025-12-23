@@ -18,8 +18,8 @@ This is a graduate-level course on systematics, the study of the diversification
 Additional EEB course offerings and information can be found [here](https://eeb.uconn.edu/course-descriptions/)
 [<img src="https://raw.githubusercontent.com/jbernot/jbernot.github.io/master/img/EEB_Banner.png" width="775"/>](https://eeb.uconn.edu/)
 
-## I have also been involved in several international workshops including:
+### I have also been involved in several international workshops including:
 
-### Organizer and Instructor for the 2025 [5th International Workshop on Symbiotic Copepoda](https://sites.google.com/view/iwosc2025)
+### * Organizer and Instructor for the 2025 [5th International Workshop on Symbiotic Copepoda](https://sites.google.com/view/iwosc2025)
 
-### Instructor for the [2023 Meiofauna Diversity and Taxonomy Workshop](https://www.kocotlab.com/2022-disl-meiofauna-diversity-and-taxonomy.html)
+### * Instructor for the [2023 Meiofauna Diversity and Taxonomy Workshop](https://www.kocotlab.com/2022-disl-meiofauna-diversity-and-taxonomy.html)

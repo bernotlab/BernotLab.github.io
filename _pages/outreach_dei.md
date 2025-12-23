@@ -14,25 +14,27 @@ nav_order: 8
 See the latest by following Jimmy on [Twitter](https://twitter.com/JimmyBernot) and [Instagram](https://www.instagram.com/jimmybernot/) @JimmyBernot<br>
 <img src="https://BernotLab.github.io/assets/img/SI_photo2.jpg?raw=true" width="775">
 
-#### We love [Skype A Scientist](https://www.skypeascientist.com)!
-Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or librarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html). Our lab has been participating regularly in Skype A Scientist since 2020.
-[<img src="https://www.glbrc.org/sites/default/files/img/Skype-A-Scientist_Myers_Header-Logo_web_GLBRC.jpg" width="775">](https://www.skypeascientist.com)
+
 
 #### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”](https://www.marinespecies.org/worms-top-ten/2024). March 2025.
 [<img src="https://images.marinespecies.org/thumbs/171659_apseudes-ranma-matsushima-en-kakui-2024.jpg?w=775">](https://www.marinespecies.org/worms-top-ten/2024)
 
-#### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023). March 2024.
-[<img src="https://images.marinespecies.org/thumbs/168473_halgerda-scripta-donohoo-en-gosliner-2023.jpg?w=775">](https://lifewatch.be/en/worms-top10-2023)
+#### We love [Skype A Scientist](https://www.skypeascientist.com)!
+Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or librarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html). Our lab has been participating regularly in Skype A Scientist since 2020.
+[<img src="https://www.glbrc.org/sites/default/files/img/Skype-A-Scientist_Myers_Header-Logo_web_GLBRC.jpg" width="775">](https://www.skypeascientist.com)
+
+#### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://www.marinespecies.org/worms-top-ten/2023). March 2024.
+[<img src="https://images.marinespecies.org/thumbs/168473_halgerda-scripta-donohoo-en-gosliner-2023.jpg?w=775">](https://www.marinespecies.org/worms-top-ten/2023)
 
 #### Interviewed in [LiveScience article]((https://www.livescience.com/animals/watch-bright-red-blood-sucking-parasite-feast-on-gulper-eel-in-rare-deep-sea-footage)) on Gulper Eel parasite filmed by ROV
 [<img src="https://cdn.mos.cms.futurecdn.net/PxxWSLaZFcaQAn4ASx7Fmd-970-80.jpg.webp" width="775">](https://www.livescience.com/animals/watch-bright-red-blood-sucking-parasite-feast-on-gulper-eel-in-rare-deep-sea-footage)
 
-#### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2022”](https://lifewatch.be/en/worms-top10-2022). March 2023.
-[<img src="https://images.marinespecies.org/thumbs/160394_atolla-reynoldsi-matsumoto-christianson-robison-haddock-en-johnson-2022.jpg?w=775">](https://lifewatch.be/en/worms-top10-2022)
+#### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2022”](https://www.marinespecies.org/worms-top-ten/2022). March 2023.
+[<img src="https://images.marinespecies.org/thumbs/160394_atolla-reynoldsi-matsumoto-christianson-robison-haddock-en-johnson-2022.jpg?w=775">](https://www.marinespecies.org/worms-top-ten/2022)
 
-#### Cowrote WoRMS [“Top 10 new marine species of 2021”](https://lifewatch.be/en/worms-top10-2021)
+#### Cowrote WoRMS [“Top 10 new marine species of 2021”](https://www.marinespecies.org/worms-top-ten/2021)
 Cowrote [WoRMS article](https://lifewatch.be/en/worms-top10-2021) for Taxonomists Appreciation Day. March 2022.
-[<img src="https://images.marinespecies.org/thumbs/150643_periclimenaeus-karantina-jh-park-en-de-grave-2021.jpg?w=775">](https://lifewatch.be/en/worms-top10-2021)
+[<img src="https://images.marinespecies.org/thumbs/150643_periclimenaeus-karantina-jh-park-en-de-grave-2021.jpg?w=775">](https://www.marinespecies.org/worms-top-ten/2021)
 
 #### Smithsonian NMNH White House Office of Science and Technology Policy Staff & Family Night
 Dr. Bernot served as an Ocean Hall Expert to talk with OSTP staff about NMNH research. Feb. 28, 2022.
@@ -54,9 +56,9 @@ Videos and photos demonstrating the science illustration process.
 #### [Sharkpedia](https://anchor.fm/sharkpediapod/episodes/Shark-Parasites-with-Dr--Jimmy-Bernot-e13emju) podcast feature
 <iframe src="https://open.spotify.com/embed/episode/6YAwzxK1jmt3tjqZmLTzyE" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-#### Cowrote [WoRMS](https://www.marinespecies.org/about.php) article [“Ten remarkable new marine species from 2020”](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020)
+#### Cowrote [WoRMS](https://www.marinespecies.org/about.php) article [“Ten remarkable new marine species from 2020”](https://www.marinespecies.org/worms-top-ten/2020)
 [<img src="https://lifewatch.be/sites/lifewatch.be/files/public/WoRMS%20Top%20Ten%202020%20-%20Astrolirus%20patricki%202.png
-" width="300">](https://lifewatch.be/en/ten-remarkable-new-marine-species-2020)
+" width="300">](https://www.marinespecies.org/worms-top-ten/2020)
 
 #### Interviewed and photos for [Snopes](https://www.snopes.com/fact-check/parasite-fish-tongue-mouth/) article on parasitic isopods
 Article on cymothoid isopod "tongue-biters".
