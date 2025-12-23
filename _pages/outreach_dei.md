@@ -14,7 +14,9 @@ nav_order: 8
 See the latest by following Jimmy on [Twitter](https://twitter.com/JimmyBernot) and [Instagram](https://www.instagram.com/jimmybernot/) @JimmyBernot<br>
 <img src="https://BernotLab.github.io/assets/img/SI_photo2.jpg?raw=true" width="775">
 
-
+#### [Mega Mammal Day](https://today.uconn.edu/2025/09/connecticut-state-museum-of-natural-history-rejoins-uconn-clas/) with the [Connecticut State Museum of Natural History](https://csmnh.uconn.edu)
+Jimmy and Netanya helped organize and guide guests through the diversity of the giant mammals of Connecticut!
+[<img src="https://today.uconn.edu/wp-content/uploads/2025/09/2025-09-15_CLAS_mega-mammal-day.jpg" width="775">](https://today.uconn.edu/2025/09/connecticut-state-museum-of-natural-history-rejoins-uconn-clas/)
 
 #### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”](https://www.marinespecies.org/worms-top-ten/2024). March 2025.
 [<img src="https://images.marinespecies.org/thumbs/171659_apseudes-ranma-matsushima-en-kakui-2024.jpg?w=775">](https://www.marinespecies.org/worms-top-ten/2024)
