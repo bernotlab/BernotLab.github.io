@@ -7,7 +7,7 @@ nav: true
 nav_order: 8
 ---
 
-<b>Diversity Statement:</b> The Bernot Lab wants everyone to feel welcome and excited about nature and science! We are committed to fostering diversity, equity, and inclusion at all levels. Our lab is a space where everyone can be safe, work comfortably, feel welcome, and be free to be their authentic selves. I expect lab members to approach this commitment with attention, open-mindedness, humility, and reflection. As scientists, we pride ourselves in a devotion to life-long learning and all lab members should bring that same drive and love of learning to better understanding the diversity of the human experience and its broader sociocultural context.
+<b>Team & Community Statement:</b> The Bernot Lab is passionate about outreach and engagement, and we want everyone to feel welcome and excited about nature and science. We agree that diversity makes teams better and we are committed to inclusion for all. I expect all lab members to approach this commitment with continual attention, open-mindedness, humility, learning, and reflection. Our lab is a space where everyone can be safe, work comfortably, feel welcome, and be free to be their authentic self. As scientists, we pride ourselves in a devotion to life-long learning and all lab members should bring that same drive and love of learning to better understanding the diversity of the human experience and its broader sociocultural context.
 
 #### See some highlights of our science engagement work below:
 
@@ -17,6 +17,9 @@ See the latest by following Jimmy on [Twitter](https://twitter.com/JimmyBernot) 
 #### We love [Skype A Scientist](https://www.skypeascientist.com)!
 Skype A Scientist is a great way to get involved in science outreach. It is a non-profit that connects scientists with classrooms across the globe. Whether you are a scientist that wants to get involved, or are a teacher or librarian that wants a Q&A with a scientist, sign up [here](https://www.skypeascientist.com/sign-up.html). Our lab has been participating regularly in Skype A Scientist since 2020.
 [<img src="https://www.glbrc.org/sites/default/files/img/Skype-A-Scientist_Myers_Header-Logo_web_GLBRC.jpg" width="775">](https://www.skypeascientist.com)
+
+#### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2024”](https://www.marinespecies.org/worms-top-ten/2024). March 2025.
+[<img src="https://images.marinespecies.org/thumbs/171659_apseudes-ranma-matsushima-en-kakui-2024.jpg?w=775">](https://www.marinespecies.org/worms-top-ten/2024)
 
 #### Chaired Committee & Cowrote article: World Register of Marine Species (WoRMS) [“Top 10 new marine species of 2023”](https://lifewatch.be/en/worms-top10-2023). March 2024.
 [<img src="https://images.marinespecies.org/thumbs/168473_halgerda-scripta-donohoo-en-gosliner-2023.jpg?w=775">](https://lifewatch.be/en/worms-top10-2023)
